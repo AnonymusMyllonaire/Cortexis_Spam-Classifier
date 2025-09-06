@@ -1,0 +1,26 @@
+v1,v2
+ham,"Hey, are we still meeting for dinner tonight?"
+ham,Don't forget to bring the documents tomorrow.
+spam,Congratulations! You have won a free lottery ticket. Claim now!
+ham,Can you call me back when you're free?
+spam,URGENT! Your account has been suspended. Verify immediately!
+ham,Happy Birthday! Wishing you a great year ahead.
+spam,You have been selected for a $1000 Walmart gift card.
+ham,Let's meet at the library to study tomorrow.
+ham,Are you coming to the football game tonight?
+spam,FREE entry in 2 a weekly competition to win FA Cup final tickets!
+spam,You’ve been chosen for a free vacation. Click here to claim.
+ham,Don’t forget the meeting at 10 AM.
+ham,Can we reschedule our appointment?
+spam,WINNER! Call now to claim your cash prize.
+ham,Looking forward to seeing you soon!
+spam, Congratulations! You’ve won \$5000 💰. Claim your reward now.     |
+| spam | URGENT: Your account has been suspended. Click here to verify 👉  |
+| spam | WINNER 🎉 You’ve been selected for a free iPhone. Call now!       |
+| ham  | Hey, are you coming to the meeting tomorrow?                      |
+| ham  | Let’s catch up for lunch next week.                               |
+| ham  | Don’t forget to bring the project files.                          |
+| spam | Get a \$1000 Walmart Gift Card instantly. Limited offer!          |
+| ham  | Happy Birthday! Wishing you the best 🎂                           |
+| spam | Free entry in our contest to win FA Cup tickets. Text WIN to 8008 |
+| ham  | Can we shift the appointment to Friday?                           |
